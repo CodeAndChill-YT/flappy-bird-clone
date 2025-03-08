@@ -22,11 +22,11 @@ Follow these steps to get the game up and running on your local machine:
     Open your terminal and run the following:
 
     ```
-    git clone https://github.com/xx.git
+    git clone https://github.com/CodeAndChill-YT/flappy-bird-clone.git
     ```
 
     ```
-    cd your-repo
+    cd flappy-bird-clone
     ```
    
 3. **Set Up Virtual Environment (Optional)**\
@@ -61,7 +61,7 @@ Follow these steps to get the game up and running on your local machine:
 
 ## Resources
 - **YouTube**:  
-View the raw programming of this project on the [Code and Chill](https://www.youtube.com/@CodeAndChill-YT) YouTube channel. Any feedback is greatly appreciated, and if you enjoy the video, make sure to subscribe!
+View the raw programming of this project on the [Code and Chill](https://www.youtube.com/watch?v=Ccaka6NmZWM&t=15s) YouTube channel. Any feedback is greatly appreciated, and if you enjoy the video, make sure to subscribe!
 
 - **Assets**:  
 All assets used in this project were sourced from [flappy-bird-assets](https://github.com/samuelcust/flappy-bird-assets).
